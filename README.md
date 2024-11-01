@@ -4,3 +4,8 @@
 これにより、エージェントは一度学習したスキルを新たな環境やタスクに応用することができる。
 各スキルは特定の条件や成功経験と共に記録され、後のタスクで効率的に使える。
 
+
+# 参考
+
+https://github.com/MineDojo/Voyager
+https://github.com/Skyvern-AI/skyvern
